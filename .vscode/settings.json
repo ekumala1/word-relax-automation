@@ -15,10 +15,11 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "python.dataScience.sendSelectionToInteractiveWindow": false,
-    "python.pythonPath": "c:\\Users\\daneo\\Google Drive\\project\\venv\\Scripts\\python.exe",
+    "python.pythonPath": "venv\\Scripts\\python.exe",
     "python.jediEnabled": false,
     "python.linting.pylintArgs": ["--load-plugins", "pylint_flask"],
     "python.formatting.autopep8Args": ["--ignore", "E402"],
-    "python.dataScience.askForKernelRestart": false
+    "python.dataScience.askForKernelRestart": false,
+    "python.languageServer": "Microsoft"
   }
   
